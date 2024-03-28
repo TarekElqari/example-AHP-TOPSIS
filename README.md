@@ -7,7 +7,7 @@ Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) metho
 - `ahp.py`: Contains the implementation of the AHP method.
 - `topsis.py`: Contains the implementation of the TOPSIS method.
 - `visualise.py`: Contains a function for ranking visualization.
-- `main.py`: The main file to run the AHP and TOPSIS methods.
+- `__init__.py`: The main file to run the AHP and TOPSIS methods.
 
 ## Usage
 
@@ -18,15 +18,15 @@ Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) metho
 5. Install the required dependencies by running:
     pip install -r requirements.txt
 
-6. Run the main.py file to execute the AHP and TOPSIS methods:
-    python main.py
+6. Run the __init__.py file to execute the AHP and TOPSIS methods:
+    python __init__.py
 
 ## Project Structure
 
 - `ahp.py`: Contains the AHP method implementation.
 - `topsis.py`: Contains the TOPSIS method implementation.
 - `visualise.py`: Contains a function for ranking visualization.
-- `main.py`: The main file to execute the AHP and TOPSIS methods.
+- `__init__.py`: The main file to execute the AHP and TOPSIS methods.
 - `README.md`: This file containing project information.
 - `requirements.txt`: A list of project dependencies.
 
